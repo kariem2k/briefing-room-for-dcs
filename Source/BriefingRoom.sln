@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BriefingRoomWeb", "Briefing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BriefingRoomDesktop", "BriefingRoomDesktop\BriefingRoomDesktop.csproj", "{A3E437D2-8115-497B-9C98-AE8C90B15828}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BriefingRoomCommonGUI", "BriefingRoomCommonGUI\BriefingRoomCommonGUI.csproj", "{2879E826-F2A4-4A28-BA84-42F09B739CCE}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WkHtmlWrapper", "WkHtmlWrapper", "{3315B5DD-1E45-4893-ACEE-2D244C73B965}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WkHtmlWrapper.Core", "WkHtmlWrapper\WkHtmlWrapper.Core\WkHtmlWrapper.Core.csproj", "{03C7CF2D-244C-4526-A0CF-98E09C09E459}"
@@ -39,6 +41,10 @@ Global
 		{A3E437D2-8115-497B-9C98-AE8C90B15828}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E437D2-8115-497B-9C98-AE8C90B15828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E437D2-8115-497B-9C98-AE8C90B15828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2879E826-F2A4-4A28-BA84-42F09B739CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2879E826-F2A4-4A28-BA84-42F09B739CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2879E826-F2A4-4A28-BA84-42F09B739CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2879E826-F2A4-4A28-BA84-42F09B739CCE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03C7CF2D-244C-4526-A0CF-98E09C09E459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{03C7CF2D-244C-4526-A0CF-98E09C09E459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03C7CF2D-244C-4526-A0CF-98E09C09E459}.Release|Any CPU.ActiveCfg = Release|Any CPU
